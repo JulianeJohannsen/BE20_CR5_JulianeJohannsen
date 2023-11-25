@@ -58,8 +58,7 @@
 
     }
 
-
-
+mysqli_close($connect);
 ?>
 
 <!DOCTYPE html>
